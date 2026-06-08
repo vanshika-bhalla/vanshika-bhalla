@@ -45,7 +45,7 @@
 A Django-based web application that detects spam messages using backend logic.
 
 ---
-
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=vanshika-bhalla&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=vanshika-bhalla&theme=dark&hide_border=false)<br/>
@@ -53,6 +53,7 @@ A Django-based web application that detects spam messages using backend logic.
 
 
 ---
+-->
 
 ## 🌐 Connect With Me
 
