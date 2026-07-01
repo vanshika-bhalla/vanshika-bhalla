@@ -1,6 +1,12 @@
-## Hi 👋, I'm Vanshika Bhalla
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc00ff,100:00dbde&height=200&section=header&text=Hi%20I'm%20Vanshika%20Bhalla!&fontSize=40&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20profile&descAlignY=60&descAlign=62" alt="header"/>
+</p>
 
-**Mathematics & Computing Student | Aspiring Software Developer | Backend & DSA Enthusiast**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00dbde&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Python+Developer;Machine+Learning+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+</p>
+
+**Mathematics & Computing Student | Aspiring Software Developer | AI Learner**
 
 🎓 3rd Year B.Tech Student in Mathematics & Computing  
 💻 Passionate about Web Development, Backend Engineering, and Problem Solving  
