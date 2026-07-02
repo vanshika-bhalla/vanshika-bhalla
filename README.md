@@ -24,7 +24,7 @@
 
 🌱 I know **HTML, CSS, JavaScript, MySQL, C++ (DSA)** and I am currently working on **Django and Python libraries**  
 
-💬 Ask me about HTML, CSS, JavaScript, MySQL, C++, DSA, Python, and Django basics  
+💬 Ask me about HTML, CSS, JavaScript, MySQL, C++, DSA, Python, and Django  
 
 ⚡ Fun fact: I enjoy learning by building projects and turning logic into real working applications  
 
