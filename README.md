@@ -8,7 +8,7 @@
 
 **Mathematics & Computing Student | Aspiring Software Developer | AI Learner**
 
-🎓 3rd Year B.Tech Student in Mathematics & Computing  
+🎓 Pre-final year Year B.Tech Student in Mathematics & Computing  
 💻 Passionate about Web Development, Backend Engineering, and Problem Solving  
 🚀 Exploring full-stack development and building real-world projects  
 
