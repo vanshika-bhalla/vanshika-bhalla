@@ -50,7 +50,7 @@
 
 🔹 **Spam Detection System**  
 A Django-based web application that detects spam messages using backend logic.
-<!--
+
 ---
 
 # 📊 GitHub Stats:
@@ -60,7 +60,7 @@ A Django-based web application that detects spam messages using backend logic.
 
 
 ---
--->
+
 
 
 ## 🌐 Connect With Me
